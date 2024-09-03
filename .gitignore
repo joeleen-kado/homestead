@@ -13,3 +13,4 @@ phpunit.xml
 wsl-init.log
 .backup/*
 .DS_Store
+phpMyAdmin-5.2.1-all-languages/config.inc.php
